@@ -244,7 +244,7 @@ function create_config( )
     "time",
     
     },
-    sudo_users = {112840592,214596866},--Sudo users
+    sudo_users = {16491827,82970682},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 ]],
